@@ -13,9 +13,12 @@ This project is a modern and animated landing page showcasing Ray-Ban products. 
 
 **Technologies Used**
 
-• HTML5 \n
-• CSS3 (SASS/SCSS) \n
+• HTML5 
+
+• CSS3 (SASS/SCSS) 
+
 • JavaScript (ES6+)
+
 • Animation Libraries (if applicable)
 
 **Installation**
