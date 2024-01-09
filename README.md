@@ -7,8 +7,11 @@ This project is a modern and animated landing page showcasing Ray-Ban products. 
 **Features**
 
 **Animations:** Engaging animations to enhance user experience.
+
 **Product Showcasing:** Display of different Ray-Ban sunglasses.
+
 **Sleek Design:** Modern and visually appealing layout.
+
 **Responsive:** Ensures compatibility and functionality across devices.
 
 **Technologies Used**
@@ -24,11 +27,13 @@ This project is a modern and animated landing page showcasing Ray-Ban products. 
 **Installation**
 
 • Clone the repository: git clone https://github.com/SammitBathla/Modern_Landing_Ray-Ban_Animated_page.git
+
 Open index.html in a modern web browser.
 
 **Usage**
 
 **1.** Upon opening the index.html file, the landing page will load showcasing Ray-Ban products with animations.
+
 **2.** Click on different sections or products to explore various features and details.
 
 **Contributing**
@@ -38,6 +43,7 @@ Open index.html in a modern web browser.
 **Credits**
 
 **Your Name:** Sammit Bathla
+
 **Name of Contributors:** Lead developer
 
 
