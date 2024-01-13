@@ -2,7 +2,7 @@
 
 **Description**
 
-This project is a modern and animated landing page showcasing Ray-Ban products. It aims to provide an engaging and visually appealing experience for users interested in Ray-Ban sunglasses. The page includes animations, sleek design elements, and showcases various Ray-Ban products.
+This project is a modern and animated landing page showcasing Ray-Ban brand. It aims to provide an engaging and visually appealing experience for users interested in Ray-Ban sunglasses. The page includes animations, sleek design elements, and showcases various Ray-Ban brand.
 
 **Features**
 
